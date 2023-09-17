@@ -31,11 +31,17 @@ main ul, img{
   box-shadow: 10px 5px 5px grey;
 }
 
+main ul{
+  padding-left: 0px;
+  margin-left: 30px;
+}
+
 main li{
   border: thin solid black;
   padding: 1em;
   background-color: gainsboro;
   list-style-type: none;
+
 }
 
 footer{
